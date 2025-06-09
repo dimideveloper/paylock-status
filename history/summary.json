@@ -4,17 +4,19 @@
     "url": "https://paylock.eu",
     "icon": "https://icons.duckduckgo.com/ip3/paylock.eu.ico",
     "slug": "pay-lock-website",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 913,
-    "timeDay": 913,
-    "timeWeek": 913,
-    "timeMonth": 913,
-    "timeYear": 913,
-    "dailyMinutesDown": {}
+    "status": "up",
+    "uptime": "54.25%",
+    "uptimeDay": "54.25%",
+    "uptimeWeek": "54.25%",
+    "uptimeMonth": "54.25%",
+    "uptimeYear": "54.25%",
+    "time": 1065,
+    "timeDay": 1065,
+    "timeWeek": 1065,
+    "timeMonth": 1065,
+    "timeYear": 1065,
+    "dailyMinutesDown": {
+      "2025-06-09": 28
+    }
   }
 ]
